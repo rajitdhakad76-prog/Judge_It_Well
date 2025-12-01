@@ -16,7 +16,7 @@ This week focuses on building essential Python programming, data visualization, 
 - **Essential Libraries:** NumPy for numerical operations, Pandas for data manipulation
 ## 2. Matplotlib Visualization Assignment
 
-**Notebook:** [Matplotlib Visualization Notebook](https://colab.research.google.com/drive/1B1WLjqWZPJZYR44IRrWIkqVOWkOKhO2a?usp=sharing)(Same copy the notebook and make submission)
+**Notebook:** [Matplotlib Visualization Notebook](https://colab.research.google.com/drive/1wCtERD2tR8Tfvi8iu6oGnK0cHt-QlomU?usp=sharing)(Same copy the notebook and make submission)
 
 ### Skills You'll Practice:
 - **Basic Plot Types:** Line plots, bar charts, scatter plots
