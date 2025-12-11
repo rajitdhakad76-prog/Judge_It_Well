@@ -1,0 +1,19 @@
+The NLP Pipeline for Legal Text Processing: 
+
+1. Sentence Segmentation
+Explanation: Sentence Segmentation is the process of splitting a text into individual, meaningful sentences. It relies on identifying terminal punctuation (periods, question marks, exclamation points).
+
+2. Tokenization
+Explanation: Tokenization breaks down the segmented sentences into smaller, discrete units called tokens, which are usually words, numbers, or punctuation marks.
+
+3. Stop-Words Removal
+Explanation: Stop-words are high-frequency words (e.g., 'the', 'a', 'is') that are typically removed to reduce data dimensionality and processing time in NLP applications.
+
+4. Lemmatization
+Explanation: Lemmatization is the process of reducing different inflected forms of a word (e.g., 'contracting', 'contracted') to its base or dictionary form, the lemma ('contract'). It uses morphological analysis and vocabulary knowledge.
+
+5. Part-of-Speech (POS) Tagging
+Explanation: Part-of-Speech (POS) Tagging assigns a grammatical category (e.g., noun, verb, adjective) to each token in the sentence, providing crucial syntactic context for further analysis.
+
+6. Named Entity Recognition (NER)
+Explanation: Named Entity Recognition (NER) is the task of locating and classifying "named entities" within unstructured text into predefined categories (e.g., Person, Organization, Location, Date).
